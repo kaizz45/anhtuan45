@@ -51,13 +51,6 @@
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"
 /></a>
-<a href="https://nestjs.com/" target="_blank"
-  ><img
-    align="left"
-    alt="nestjs.js"
-    height="42px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-/></a>
 <a href="https://devdocs.io/html/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
@@ -121,30 +114,11 @@
     height="42px"
   />
 </a>
-<a
-  href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
-  target="_blank"
->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-    align="left"
-    alt="sql-server"
-    height="42px"
-  />
-</a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
     align="left"
     alt="mongodb"
-    height="42px"
-  />
-</a>
-<a href="https://yarnpkg.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-    align="left"
-    alt="yarnpkg"
     height="42px"
   />
 </a>
