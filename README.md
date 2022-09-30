@@ -4,7 +4,7 @@
 
 <div>
   <a href="#">
-    https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan45&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan45&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" />
   </a>
 </div>
 
