@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=anhtuan45&color=green)
+
 ### Top languages:
 
-<div>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan45&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" />
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhtuan45&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuan45&theme=radical)
 
 ### 🔨 Languages and Tools:
 
